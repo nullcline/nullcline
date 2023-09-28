@@ -1,6 +1,6 @@
-### hey
+### hi
 
-my github serves an extra purpose as being a project portfolio, because that just makes sense. 
+my github serves an extra purpose as being a project portfolio, because that just makes sense. things are not polished because i prefer to spend more of my time actually building and learning :) 
 
 
 ### about
@@ -8,4 +8,5 @@ as an engineer i've tried to be as truly full stack as possible - i have basic s
 
 in my free time i enjoy reading about ML, neuroscience, and physics. the brain and the universe are pretty cool.
 
-you can find my resume and a link back to this github on my [website](https://nullcline.github.io/) :) 
+### contact
+if you think i'm cool enough to hire my [resume can be found here](https://nullcline.github.io/files/andrew-resume-2023_06_30.pdf) 
