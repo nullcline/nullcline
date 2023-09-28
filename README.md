@@ -8,8 +8,7 @@ as an engineer i've tried to be as truly full stack as possible - i have basic s
 
 in my free time i enjoy reading about physics, neuroscience, philosophy, and machine learning (very original i know). 
 
-i also like playing rogue-likes and platforming games (https://steamcommunity.com/id/nullcline_/), as well as filmmaking/editing (https://www.youtube.com/@nullcline_
-)
+i also like [playing rogue-likes and platforming games](https://steamcommunity.com/id/nullcline_/), as well as [filmmaking/editing](https://www.youtube.com/@nullcline_)
 
 
 
