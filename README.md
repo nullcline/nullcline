@@ -1,6 +1,6 @@
 ### hi
 
-my github serves an extra purpose of being my project portfolio, because that just makes sense. it's not that polished because i prefer to spend more of my time building and learning :) 
+my github serves an extra purpose of being my project portfolio, because that just makes sense. it's not that polished because i prefer to spend most of my time building and learning :) 
 
 
 ### about
